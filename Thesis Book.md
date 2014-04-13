@@ -1,5 +1,5 @@
 ##TITLE
-Push for fame
+Push For Fame
 ##SYNOPSIS
 15 minsCorner story is an interactive video installation that collect corner stories. 
 It uses interactive media as a way to approach people that is hard to approach or unusual.
