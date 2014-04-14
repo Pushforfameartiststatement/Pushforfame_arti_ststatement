@@ -12,7 +12,9 @@ with the goal of encouraging people from diverse background to actively engage w
 Push For Fame shows the egalitarian nature of public art and self-portraits in different public spaces.
 Through these four local design projects,
 I am interested in exploring factors that will encourage people to express themselves and communicate with the local discourse communities without language.
+// Foreigner experience.
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // What imspire my? I want to make a installation for people easier to access, so I can make a documentary from that.
 老蔡說：你可以往神話學的方向進行研究，如果你每天都去按那一個Button 你是為了什麼要去按。
 爺爺：爺爺每天按，還會介紹朋友跟她一起按。
