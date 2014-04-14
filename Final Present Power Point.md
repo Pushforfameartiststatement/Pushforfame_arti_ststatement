@@ -41,21 +41,29 @@ See this fantasy image and wondering all these people’s story.
 ###14.People come back over and over 
 Show guys
 - MAybe this is not about the fame. This is about people who live this community talk to each other without language.
+
 ###15.Other purpose(photo)
+
 - Creatative
 - Politial
 Solution for this one.(SOLUTION)
+
 ###16.
+
 -Not to want to be famous 
 He do this for some other reason.
 - Ask breakfast.
+
 ###17.I dont know what I have to do for the next
+
 How to get the full story
 Write comment
 Reveling the mask idea
 Foreign experience 
 Communicate without language
+
 ###18.Want other people have this experience.
+
 Use gallery to share experience. 
 
 ###19.Photos from gallery.
