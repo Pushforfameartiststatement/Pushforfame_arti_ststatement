@@ -1,16 +1,9 @@
 ##TITLE
 Push For Fame
 ##SYNOPSIS
-Push for Fame want to collect stories about people as a snapshot of them.The Push for Fame installation comes with a button and a camera. People take pictures by themselves, capturing and broadcasting their own story at that time and place. 
+Push for Fame collects stories about people in the form of a snapshot. The installation consists of a button, a camera and a screen. People take pictures of themselves, capturing and broadcasting their own stories at that time and place. 
 ##DESCRIPTION
-"In the future, everyone will be world-famous for 15 minutes," said Andy Warhol. 
-Push For Fame is an interactive window display inspired by Warhol's quote. 
-We use three basic elements - a button, a screen, and a camera - 
-to engage people to take pictures in four different public locations, 
-with the goal of encouraging people from diverse background to actively engage with their surrounding environments.
-Push For Fame shows the egalitarian nature of public art and self-portraits in different public spaces.
-Through these four local design projects,
-I am in exploring factors that will encourage people to express themselves and communicate with the local discourse communities with limited language.
+"In the future, everyone will be world-famous for 15 minutes," said Andy Warhol. Push For Fame is an interactive window display inspired by Warhol's quote. It uses three basic elements - a button, a screen, and a camera - to engage people to take pictures in four different public locations, with the goal of encouraging people from diverse backgrounds to actively engage with their surrounding environments. Push For Fame shows the egalitarian nature of public art and self-portraits in different public spaces. I am using these four local design projects to explore different methods of encouraging people to express themselves and contribute to local discourse across languages, through their own self-portraits.
 // Foreigner experience.
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
