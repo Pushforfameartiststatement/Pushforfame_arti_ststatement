@@ -11,7 +11,7 @@ to engage people to take pictures in four different public locations,
 with the goal of encouraging people from diverse background to actively engage with their surrounding environments.
 Push For Fame shows the egalitarian nature of public art and self-portraits in different public spaces.
 Through these four local design projects,
-I am interested in exploring factors that will encourage people to express themselves and communicate with the local discourse communities without language.
+I am in exploring factors that will encourage people to express themselves and communicate with the local discourse communities with limited language.
 // Foreigner experience.
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
