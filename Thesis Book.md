@@ -1,8 +1,7 @@
 ##TITLE
 Push For Fame
 ##SYNOPSIS
-Push For Fame is a collective narrative pieces that collect stories we don't know about this corner. 
-It uses interactive media as a way to approach people that is hard to approach.
+Push for Fame want to collect stories about people as a snapshot of them.The Push for Fame installation comes with a button and a camera. People take pictures by themselves, capturing and broadcasting their own story at that time and place. 
 ##DESCRIPTION
 "In the future, everyone will be world-famous for 15 minutes," said Andy Warhol. 
 Push For Fame is an interactive window display inspired by Warhol's quote. 
